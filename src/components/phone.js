@@ -1,0 +1,109 @@
+import "./phone.css"
+
+function Phone() {
+    return (
+        <div className="phone">
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+        </div>
+    )
+}
+
+export default Phone;
