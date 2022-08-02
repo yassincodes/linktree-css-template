@@ -1,0 +1,109 @@
+import "./links.css"
+
+function Links() {
+    return (
+        <div className="links">
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+            content content content content
+        </div>
+    )
+}
+
+export default Links;
